@@ -1,6 +1,6 @@
 # Configure-Domain-With-Route53
 
-# For this we need one Domain, have domain with the name of "cloudtechmasters.ml"
+# For this we need one Domain, have domain with the name of 'cloudtechmasters.ml'
 
 ![image](https://user-images.githubusercontent.com/58024415/95935267-79b2b880-0df0-11eb-8483-68b17ca81aa9.png)
 
